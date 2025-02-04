@@ -1,0 +1,37 @@
+.location-container{
+    width: 100%;
+    padding: 20px;
+}
+.location-title{
+    margin-bottom: 2rem;
+}
+.location-title{
+    margin: 0;
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+.location-btn{
+  display: block;
+  width: 50%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #182884;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 3rem;
+  text-align: center;
+}
+.location-btn:hover{
+   background-color: #3c6fd5;
+}
+.back-link{
+  color: #182884;
+  text-decoration: underline;
+}
+.back-link:hover{
+  color: #3c6fd5;
+}
