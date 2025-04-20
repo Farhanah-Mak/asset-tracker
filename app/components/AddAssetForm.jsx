@@ -44,10 +44,15 @@ const AddAssetForm = ({
           required
         >
           <option value="">Select Asset Type</option>
-          <option value="SIM Card">SIM Card</option>
-          <option value="Laptop">Laptop</option>
-          <option value="Display">Display</option>
-          <option value="Printer">Printer</option>
+          <option value="Fingerprint Devices">Fingerprint Devices</option>
+          <option value="PBX Devices">PBX Devices</option>
+          <option value="Routers">Routers</option>
+          <option value="Computers">Computers</option>
+          <option value="Monitors">Monitors</option>
+          <option value="Laptops">Laptops</option>
+          <option value="Printers">Printers</option>
+          <option value="Scanner">Scanners</option>
+          <option value="Cameras">Cameras</option>
         </select>
       </div>
 

@@ -13,7 +13,7 @@ export const connectDb = async () => {
 
   try {
     const connection = await mongoose.connect(MONGODB_URI, {
-      dbName: "EECC", // Replace "crud" with your actual database name
+      dbName: "EECC", // Replace with your actual database name
       useNewUrlParser: true,
       useUnifiedTopology: true,
       serverSelectionTimeoutMS: 15000, // 15 seconds timeout for server selection
