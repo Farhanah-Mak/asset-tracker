@@ -3,10 +3,10 @@
  ## Functionalities
  ### Add an Employee with name, Id and Location.
  ### Assign Assets to an Employee
- ### Edit, Un-assign assets from an employeee
+ ### Edit,Delete and Un-assign assets from an employeee
  ### Search an employee based on their ID
 
- ## Employee Record and Assets Record stored in MongoDb Database using mongoose schema.
+ #### Employee Record and Assets Record stored in MongoDb Database using mongoose schema.
  
  
 
